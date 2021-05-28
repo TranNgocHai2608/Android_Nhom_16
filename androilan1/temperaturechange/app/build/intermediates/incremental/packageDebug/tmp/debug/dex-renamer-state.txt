@@ -1,0 +1,4 @@
+#Tue May 25 01:15:41 ICT 2021
+base.0=/Users/nguyenhieu/Downloads/androilan1/temperaturechange/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
