@@ -1,0 +1,8 @@
+com/example/kamera/ReminderBroadcast.java
+ com.example.kamera.ReminderBroadcast
+com/example/kamera/MainActivity.java
+ com.example.kamera.MainActivity
+ com.example.kamera.MainActivity$1
+ com.example.kamera.MainActivity$2
+com/example/kamera/BuildConfig.java
+ com.example.kamera.BuildConfig

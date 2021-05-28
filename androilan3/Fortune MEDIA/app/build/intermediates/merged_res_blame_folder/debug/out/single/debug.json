@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable-v24_pause.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable-v24/pause.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable-v24_back.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable-v24/back.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable_ban.jpg.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable/ban.jpg"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable-v24_music.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable-v24/music.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/layout_activity_play__song_.xml.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/layout/activity_play__song_.xml"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable-v24_shuffle.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable-v24/shuffle.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable_banner.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable/banner.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable-v24_repeat.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable-v24/repeat.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable-v24_play.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable-v24/play.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/layout_adapter_listmain.xml.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/layout/adapter_listmain.xml"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable_cd.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable/cd.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/layout_adapter_item_song.xml.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/layout/adapter_item_song.xml"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable_nen.jpg.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable/nen.jpg"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/build/intermediates/res/merged/debug/drawable-v24_next.png.flat",
+        "source": "/Users/nguyenhieu/Downloads/androilan3/Fortune MEDIA/app/src/main/res/drawable-v24/next.png"
+    }
+]
